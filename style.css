@@ -1,0 +1,25 @@
+body{
+    background-color:silver;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color:orangered;
+    border-width:3px;
+    width:3%;
+}
+h1{
+    color:firebrick;
+}
+h3{
+    color:green;
+}
+.heading{
+    color:red;
+}
+.hobbies:hover{
+        color:gold;
+}
+.circular{
+    border-radius:20%;
+}
